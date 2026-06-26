@@ -1,9 +1,10 @@
 # Digital-Payment-Fraud-Analytical-Dashboard
-Interactive Power BI dashboard for digital payment fraud detection, risk analysis, and transaction monitoring.
+
+Interactive Power BI dashboard for monitoring digital payment fraud, identifying fraud trends, and analyzing transaction patterns.
 
 ## Business Objective
 
-Analyze digital payment transactions to identify fraud trends, high-risk merchants, payment methods, and suspicious activities to support fraud prevention.
+Analyze digital payment transactions to detect fraud patterns, monitor fraud rates, identify high-risk merchants, and support decision-making through interactive visualizations.
 
 ## Tools Used
 
@@ -22,11 +23,11 @@ Analyze digital payment transactions to identify fraud trends, high-risk merchan
 
 ## Dashboard Preview
 
-![Fraud Dashboard](FraudDashboard.png)
+![Fraud Dashboard](Fraud%20Dashboard.png)
 
 ## Files
 
-- Power BI Dashboard PDF
+- [Power BI Dashboard PDF](Digital%20Payments%20Fraud%20Dashboard.pdf)
 
 ## Author
 
