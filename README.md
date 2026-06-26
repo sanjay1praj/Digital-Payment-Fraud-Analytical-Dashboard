@@ -1,6 +1,6 @@
 # Digital Payment Fraud Analytical Dashboard
 
-Interactive Power BI dashboard for monitoring digital payment fraud, fraud trends, and risk indicators.
+Interactive Power BI dashboard for monitoring digital payment fraud, fraud trends, and key risk indicators.
 
 ## Business Objective
 
