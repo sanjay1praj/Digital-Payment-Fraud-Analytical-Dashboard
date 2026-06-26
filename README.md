@@ -24,7 +24,7 @@ Analyze digital payment transactions to identify fraud patterns, monitor fraud r
 
 ## Dashboard Preview
 
-![Fraud Dashboard](Fraud Dashboard.png)
+![Fraud Dashboard](Fraud%20Dashboard.png)
 
 ## Files
 
